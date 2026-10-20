@@ -29,7 +29,7 @@ It takes less than a minute to deploy the complete FirewallFalcon Manager on you
 
 ### Primary Method (Recommended)
 ```bash
-bash <(curl -Ls https://github.com/aliphosepeter-web/skyzone-manager//raw/branch/main/install.sh)
+bash <(curl -Ls https://github.com/aliphosepeter-web/skyzone-manager/raw/branch/main/install.sh)
 ```
 
 *(Once installed, simply type `menu` in your terminal to launch the interface!)*
